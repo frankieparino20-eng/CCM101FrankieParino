@@ -1,6 +1,6 @@
 # Activity Reflection
 
-After doing this mission, I learned more about AWS, Azure, and Google Cloud Platform. Before this activity, I only knew that they were cloud providers, but I learned that they have many different services and each one has its own strengths.
+After doing this activity, I learned more about AWS, Azure, and Google Cloud Platform. Before this activity, I only knew that they were cloud providers, but I learned that they have many different services and each one has its own strengths.
 
 The cloud platform that impressed me the most is Microsoft Azure. I chose Azure because it works well with Microsoft products and services. I also found out that AWS and GCP have many useful services, so I think the best choice still depends on what the company needs.
 
