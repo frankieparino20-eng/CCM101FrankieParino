@@ -39,7 +39,7 @@ Available: 13G
 Usage: 30%  
 Mounted On: "/"
 
-## Cloud Migration Options
+# Cloud Migration Options
 
 If this Linux server were migrated to the cloud, it could be hosted using virtual machine services from AWS, Microsoft Azure, or Google Cloud Platform.
 
