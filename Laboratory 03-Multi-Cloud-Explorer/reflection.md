@@ -1,4 +1,4 @@
-Mission Reflection
+# Activity Reflection
 
 After doing this mission, I learned more about AWS, Azure, and Google Cloud Platform. Before this activity, I only knew that they were cloud providers, but I learned that they have many different services and each one has its own strengths.
 
